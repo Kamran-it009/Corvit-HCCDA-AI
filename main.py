@@ -1,1 +1,2 @@
-print('Kamran')
+x = 10
+print(x)
